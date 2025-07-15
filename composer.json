@@ -1,0 +1,19 @@
+{
+  "name": "oneawebmarketing/php-sepa",
+  "description": "SEPA File generator",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "ufozone\\phpsepa\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "1aWebmarketing",
+      "email": "info@1awebmarketing.de"
+    }
+  ],
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}
